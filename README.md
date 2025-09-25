@@ -1,7 +1,7 @@
-Repositório de Estudos Java ☕
+Repositório de Estudos Java
 Este repositório contém uma coleção de códigos e exemplos desenvolvidos durante meus estudos da linguagem de programação Java. O objetivo é registrar e documentar meu progresso, cobrindo desde conceitos básicos da sintaxe até tópicos mais avançados, como o uso de anotações e a introdução a frameworks populares.
 
-📚 Tópicos Abordados
+Tópicos Abordados
 Os arquivos estão organizados por assunto, cobrindo as seguintes áreas:
 
 1. Fundamentos da Linguagem (Commit: BASICO)
